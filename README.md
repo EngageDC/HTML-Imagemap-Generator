@@ -2,6 +2,8 @@ html-imagemap-generator
 =======================
 The HTML Image Map generator can be used to automatically generate HTML image maps for districts on maps or other images of the same type
 
+For more information, check out the [blog post](http://www.engagedc.com/2012/06/29/automatic-generation-of-image-maps/) at Engagedc.com
+
 ![Screenshot](http://www.engagedc.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-26-at-20.23.40.png)
 
 Build instructions
